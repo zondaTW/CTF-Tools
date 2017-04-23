@@ -4,6 +4,8 @@ import pprint
 from itertools import count
 import string
 
+# http://www.usb.org/developers/hidpage/Hut1_12v2.pdf  page.53
+
 lower_str = string.ascii_lowercase
 upper_str = string.ascii_uppercase
 digits_str = "1234567890"
