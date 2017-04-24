@@ -68,14 +68,14 @@ keypad_str4 = [
 ]
 
 control_list = [
-	"<Control>",
-	"<Shift>",
-	"<Alt>",
-	"<GUI>",
-	"<Control>",
-	"<Shift>",
-	"<Alt>",
-	"<GUI>",
+    "<Control>",
+    "<Shift>",
+    "<Alt>",
+    "<GUI>",
+    "<Control>",
+    "<Shift>",
+    "<Alt>",
+    "<GUI>",
 ]
 
 
