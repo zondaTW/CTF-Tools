@@ -67,6 +67,17 @@ keypad_str4 = [
     "<Delete>"
 ]
 
+control_list = [
+	"<Control>",
+	"<Shift>",
+	"<Alt>",
+	"<GUI>",
+	"<Control>",
+	"<Shift>",
+	"<Alt>",
+	"<GUI>",
+]
+
 
 dict_usb_code = {}
 
@@ -97,5 +108,4 @@ add_dict_2_string(0x59, keypad_str3, keypad_str4)
 
 if __name__ == "__main__":
     pprint.pprint(dict_usb_code)
-
 
