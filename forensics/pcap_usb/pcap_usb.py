@@ -38,6 +38,8 @@ for line in file_content:
             control_value += control_list[idx]
             if control_list[idx] == "<Shift>":
                 shift = 1
+    if control_value == "<Shift>":
+        control_value = ''
     
     if not key_code == '00':
         if key_code in keyboard_range:
