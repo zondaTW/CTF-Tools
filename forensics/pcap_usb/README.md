@@ -1,4 +1,11 @@
 # Pcap_Usb
 
-## ¥\¯à
-±N¤º®e¬°usbªºkeyboard©Îkeypad«Ê¥]¤º®e¸Ñ½X
+## åŠŸèƒ½
+å°‡å…§å®¹ç‚ºusbçš„keyboardæˆ–keypadå°åŒ…å…§å®¹è§£ç¢¼
+
+## ä½¿ç”¨èªªæ˜
+<code>pcap_usb.py [pcapæª”å]</code>  
+<code>pcap_usb.py test.pcap > output.txt</code> Â 
+
+<code>analyzer.py [pcap_usbçµæœçš„æª”å]</code>  
+<code>analyzer.py output.txt</code> Â 
